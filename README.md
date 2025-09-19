@@ -6,7 +6,7 @@
 
 ---
 
-Request to approve the budget for Kairos team to the development of the Qbuild v1.0 solution (1st winner of Qubic track at RAISE YOUR HACK 2025): 24.65 bln QUBIC ($49,300 at $2000 per/bln)
+Request to approve the budget for Kairos team to the development of the Qbuild v1.0 solution (1st winner of Qubic track at RAISE YOUR HACK 2025): $29,000
 
 Wallet: FQJYDAAGMPTOSGYNHYOVVAANQMAAPIGZDCWKEUHBFCOTVANGLMBWMDRAHZMB
 
@@ -94,43 +94,7 @@ Qbuild will integrate multiple large language model providers including Groq, Op
 
 Qubic RPC integration will be implemented through backend modules designed to interact with the blockchain. Frontend integration will handle transaction validation, with connectivity and security measures established for robust interaction.
 
-## 5. Marketing and Communication Strategy
-
-### 5.1 Value Proposition
-
-QBuild offers a powerful value proposition by addressing the core challenges faced by developers working with smart contracts on the Qubic blockchain. By providing an automated, comprehensive audit and testing tool specifically designed for Qubic's unique environment, QBuild significantly reduces development risks and accelerates the deployment process. The tool’s integration of advanced AI-driven vulnerability detection and practical exploit simulation ensures that developers can confidently release secure, high-quality contracts without exhaustive manual effort.
-
-Moreover, QBuild empowers the entire Qubic ecosystem by fostering higher security standards and promoting best practices in smart contract development. This not only protects individual projects from costly bugs and exploits but also strengthens the overall trust and growth of the Qubic platform. By enabling seamless and efficient quality assurance through automation, QBuild facilitates innovation and adoption, helping the community build reliable decentralized applications at scale.
-
-### 5.2 Audience Targeting
-
-QBuild is aimed at all stakeholders interested in developing and securing smart contracts on the Qubic network. Specifically:
-
-- **Developers of smart contracts** on Qubic, both beginners and experts, who seek advanced tools to audit and test their code before deployment.
-
-- **Blockchain teams and companies** that need to verify the security and quality of their smart contracts in an efficient and automated environment.
-
-- **Members of the Qubic community** interested in strengthening the security of the ecosystem and promoting better development practices
-
-### 5.3 Social Media Strategy
-
-Since we won first prize of the Qubic track at lablab.ai hackaton in [RAISE YOUR HACK 2025](https://lablab.ai/event/raise-your-hack) we have started a social media positioning strategy, which will be increased during the development of the project to achieve community engagement and capture potential leads, as well as Qbuild promoters.
-
-We will focus on X, where the communities interested in Blockchain and Web3 are currently located, to capture potential leads and generate engagement:
-- **[@kairos_tek](https://x.com/kairos_tek) 3 month statistics:** +350 followers, +96k impressions, +6,2k interactions (6.5% engagement rate)
-- **[@joobid](https://x.com/joobid) (CEO of Kairos) 3 month statistics:** +5,4k followers, +238k impressions, +14k interactions (5.9% engagement rate)
-
-These figures demonstrate strong community interest and the effectiveness of our strategy to build momentum and attract users.
-
-In parallel, we will continue to boost Qubic's awareness on LinkedIn, through the positioning of its CEO and Kairos, to reach a broader audience in the business world.
-
-We will continue to actively participate in the Qubic ecosystem (in English and Spanish) on both Telegram and Discord, to achieve community engagement and capture potential leads, as well as promoters.
-
-### 5.4 Implementation Timeline
-
-The marketing and communications strategy will be developed in parallel with the execution of the Qbuild project plan and will continue beyond the scope indicated in this proposal.
-
-## 6. Project Plan and Deliverables
+## 5. Project Plan and Deliverables
 
 Project planning is structured into the following phases, each of which specifies the activities and deliverables to be generated, start date, duration and dedication in hours per profile:
 
@@ -215,48 +179,47 @@ Project planning is structured into the following phases, each of which specifie
 
 **Total Hours:** 580 hours
 
-## 7. Budget and Payment Plan
+## 6. Budget and Payment Plan
 
-### 7.1 Budget Breakdown
+### 6.1 Budget Breakdown
 
-The budget required for the development of the **Qbuild v1.0** solution, according to the described scope, amounts to **24.65 bln QUBIC** (@USD2000/bn as of the proposal generation date), broken down into the following items:
+The budget required for the development of the **Qbuild v1.0** solution, according to the described scope, amounts to **$29,000**, broken down into the following items:
 
-| Phase | USD | bnQu |
-|-------|-----|---------|
-| Project Foundation and Initial Setup | 3,400 | 1.70 |
-| Multi-LLM Provider Integration | 8,500 | 4.25 |
-| Blockchain Qubic RPC Integration | 8,500 | 4.25 |
-| Multiple Audit Types Implementation | 11,900 | 5.95 |
-| Frontend Interface for Monitoring and Verification | 6,800 | 3.40 |
-| Comprehensive Testing and Quality Assurance | 6,800 | 3.40 |
-| Documentation and Final QA | 3,400 | 1.70 |
-| **Total Budget Request** | **49,300** | **24.65** |
+| Phase | USD | 
+|-------|-----|
+| Project Foundation and Initial Setup | 2,000 |
+| Multi-LLM Provider Integration | 5,000 |
+| Blockchain Qubic RPC Integration | 5,000 |
+| Multiple Audit Types Implementation | 7,000 |
+| Frontend Interface for Monitoring and Verification | 4,000 |
+| Comprehensive Testing and Quality Assurance | 4,000 |
+| Documentation and Final QA | 2,000 |
+| **Total Budget Request** | **29,000** |
 
-
-### 7.2 Payment Plan
+### 6.2 Payment Plan
 
 Payments will be made according to the following schedule, based on the achievement of the specified milestones:
 
 - **Milestone 0 - Proposal approval:**
 
   - Date: T0
-  - Amount: 15% of total budget (3.70 bln QUBIC)
+  - Amount: 20% of total budget
 
 - **Milestone 1: Core Platform Completion**
 
   - Date: T0 + 8 weeks + 2 weeks QA Qubic
   - Includes: Phases from 1 to 4
-  - Amount: 60% of total budget (14.79 bln QUBIC)
+  - Amount: 40% of total budget
 
 - **Milestone 2: Complete Security Testing Platform:**
 
   - Date: T0 + 15 weeks + 2 weeks QA Qubic
   - Includes: Phases from 5 to 7
-  - Amount: 25% of total budget (6.16 bln QUBIC)
+  - Amount: 40% of total budget
 
 Payments will be sent to the wallet FQJYDAAGMPTOSGYNHYOVVAANQMAAPIGZDCWKEUHBFCOTVANGLMBWMDRAHZMB based on the compliance of each phase milestones according to the defined breakdown.
 
-## 8. Qbuild Roadmap
+## 7. Qbuild Roadmap
 
 **Qbuild 2.0: specialized LLM that natively understands Qubic:**
 In upcoming strategic projects for the Qubic ecosystem, the development of a specialized language model that natively understands Qubic is planned, based on fine-tuning an LLM. This project will include an automated training pipeline, a community-driven collaborative learning system, and advanced zero-prompt analysis capabilities, ensuring complete independence from external models. The technical implementation involves optimized platforms for training and local deployment, supported by a multidisciplinary team focused on backend, ML/AI, frontend, and DevOps.
@@ -268,7 +231,7 @@ We believe this roadmap represents a solid step forward toward advanced integrat
 
 The future development of this roadmap is subject to the submission of corresponding proposals for Qbuild 2.0 and/or 3.0 and the approval of the necessary funding for its implementation.
 
-## 9. Kairos Team
+## 8. Kairos Team
 
 Throughout 2025, [Kairos](https://kairos-tek.com) has become one of the most impactful teams in the Qubic ecosystem, demonstrating its 10+ years experience and execution capacity as winners of all the hackathons organized by Qubic to date:
   - **2nd place at MAD HACK 2025** with [EasyConnect](https://kairos-tek.com/easyconnect), a solution developed through the incubation program thanks to a $25,000 prize and commercially launched in September 2025.
@@ -276,7 +239,7 @@ Throughout 2025, [Kairos](https://kairos-tek.com) has become one of the most imp
 
 Furthermore, Kairos members are recognized leaders in the Qubic ecosystem, active colaborators and ambassadors of the network and drivers of its expansion beyond the existing ecosystem.
 
-### 9.1 Team Members
+### 8.1 Team Members
 
 - **Jorge Ordovás (Cofounder and CEO):**
 
@@ -304,7 +267,7 @@ Furthermore, Kairos members are recognized leaders in the Qubic ecosystem, activ
   - Lecturer at multiple universities and business schools, delivering courses on Web3 topics.
   - **LinkedIn:** [Alberto García](https://www.linkedin.com/in/okalberto/)
 
-### 9.2 External Collaborators
+### 8.2 External Collaborators
 
 - **Pablo F. Burgueño (Non-executive Partner)**
   - Cofounder of NevTrace and a lawyer specializing in cybersecurity, privacy, and LegalTech law.
@@ -315,7 +278,7 @@ Furthermore, Kairos members are recognized leaders in the Qubic ecosystem, activ
 
 Moreover, with more than a decade of experience in the startup and corporate ecosystem, we have a broad network of contacts, freelance professionals specialized in blockchain technology, frontend, backend, infrastructure, and more. We will involve them in the project as external collaborators if additional resources are needed to meet the defined milestones.
 
-## 10. Conclusion
+## 9. Conclusion
 
 QBuild represents a groundbreaking solution for enhancing the security and reliability of smart contracts on the Qubic blockchain.
 
@@ -340,4 +303,4 @@ Any changes, updates, or modifications to these external dependencies that occur
 ---
 
 **Document Version:** 1.0  
-**Last Updated:** September 10, 2025
+**Last Updated:** September 19, 2025
