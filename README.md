@@ -46,6 +46,8 @@ This initial QBuild version will also include a web-based user interface where u
 
 The scope of the proposal includes developing all core functionalities necessary for fully automated C++ contract audits within the Qubic ecosystem. This encompasses integrating static analysis, vulnerability detection and automated test generation, all accessible via a user-friendly web dashboard. Our objective is to deliver a robust, scalable, and intuitive platform that simplifies the smart contract auditing process for both individual developers and enterprise teams. By combining cutting-edge AI with practical development workflows, QBuild aims to set a new standard of security and efficiency for Qubic smart contracts, paving the way for broader adoption and ongoing innovation across the ecosystem.
 
+**While QBuild's primary focus is on comprehensive smart contract auditing for the Qubic ecosystem, the Basic and Performance audit capabilities can be applied to any C++ codebase.** This expanded functionality allows developers to ensure their C++ code follows Core-tech recommendations and performance best practices, even for non-blockchain applications or components that integrate with smart contracts.
+
 ## 3. Functionality
 
 ### 3.1 Access to Advanced AI Language Models with Flexibility
@@ -62,7 +64,22 @@ With direct Qubic blockchain RPC integration, the tool provides clients with sec
 
 ### 3.3 Comprehensive Audit Capabilities Addressing Multiple Needs
 
-The tool delivers thorough auditing for Basic, Security, and Performance aspects, enabling clients to identify vulnerabilities, security gaps, and optimization opportunities in smart contracts and platform components. Clear audit reports support informed decision-making and regulatory compliance.
+QBuild provides three distinct audit types, each designed to address specific aspects of smart contract development and deployment within the Qubic ecosystem. This multi-layered approach ensures comprehensive validation from basic compliance to advanced security testing.
+
+#### 3.3.1 Basic Audit
+
+The Basic Audit focuses on code quality, syntax validation, and compliance with Qubic ecosystem standards. It verifies that C++ code follows proper coding practices and meets Core-tech acceptance criteria for mainnet deployment, ensuring smart contracts are ready for production on the Qubic blockchain.
+
+#### 3.3.2 Security Audit
+
+The Security Audit performs vulnerability detection and exploit prevention through static code analysis and AI-powered pattern recognition. This audit is responsible for launching real transactions that include penetration testing scenarios, effectively attempting to hack and break the smart contract in a controlled environment to identify and exploit potential security vulnerabilities.
+
+#### 3.3.3 Performance Audit
+
+The Performance Audit evaluates smart contract efficiency and optimization opportunities within the Qubic ecosystem. It analyzes computational complexity, resource usage, and scalability to ensure optimal performance under varying transaction loads and provides recommendations for improving contract efficiency.
+
+**Note:** *While the complete three-tier audit system is designed specifically for smart contracts, the Basic and Performance audits can be independently applied to any C++ codebase, making QBuild a versatile tool for ensuring code quality and optimization beyond smart contract development.*
+
 
 ![Comprehensive Audit Capabilities Addressing Multiple Needs](images/3.3.png)
 
