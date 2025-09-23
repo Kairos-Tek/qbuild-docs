@@ -252,7 +252,7 @@ The future development of this roadmap is subject to the submission of correspon
 
 Throughout 2025, [Kairos](https://kairos-tek.com) has become one of the most impactful teams in the Qubic ecosystem, demonstrating its 10+ years experience and execution capacity as winners of all the hackathons organized by Qubic to date:
   - **2nd place at MAD HACK 2025** with [EasyConnect](https://kairos-tek.com/easyconnect), a solution developed through the incubation program thanks to a $25,000 prize and commercially launched in September 2025.
-  - **1st place in the Qubic track of RAISE YOUR HACK 2025** with [Qbuild](https://lablab.ai/blog/the-kairos-story-at-raise), obtaining a prize of $200,000 for its incubation.
+  - **1st place in the Qubic track of RAISE YOUR HACK 2025** with [Qbuild](https://lablab.ai/blog/the-kairos-story-at-raise).
 
 Furthermore, Kairos members are recognized leaders in the Qubic ecosystem, active colaborators and ambassadors of the network and drivers of its expansion beyond the existing ecosystem.
 
