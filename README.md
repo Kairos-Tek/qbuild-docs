@@ -217,22 +217,23 @@ The budget required for the development of the **Qbuild v1.0** solution, accordi
 
 Payments will be made according to the following schedule, based on the achievement of the specified milestones:
 
-- **Milestone 0 - Proposal approval:**
+- **Milestone 1: Core Platform Setup and Multi-LLM Provider Integration**
 
-  - Date: T0
-  - Amount: 20% of total budget
+  - Date: T0 (proposal aproval date) + 4 weeks + 1 week QA Qubic
+  - Includes: Phases 1 and 2
+  - Amount: 30% of total budget
 
-- **Milestone 1: Core Platform Completion**
+- **Milestone 2: Core Platform Completion**
 
-  - Date: T0 + 8 weeks + 2 weeks QA Qubic
-  - Includes: Phases from 1 to 4
+  - Date: T0 + 9 weeks + 1 week QA Qubic
+  - Includes: Phases 3 and 4
   - Amount: 40% of total budget
 
 - **Milestone 2: Complete Security Testing Platform:**
 
   - Date: T0 + 15 weeks + 2 weeks QA Qubic
   - Includes: Phases from 5 to 7
-  - Amount: 40% of total budget
+  - Amount: 30% of total budget
 
 Payments will be sent to the wallet FQJYDAAGMPTOSGYNHYOVVAANQMAAPIGZDCWKEUHBFCOTVANGLMBWMDRAHZMB based on the compliance of each phase milestones according to the defined breakdown.
 
