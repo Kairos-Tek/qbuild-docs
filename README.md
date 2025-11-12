@@ -229,7 +229,7 @@ Payments will be made according to the following schedule, based on the achievem
   - Includes: Phases 3 and 4
   - Amount: 40% of total budget
 
-- **Milestone 2: Complete Security Testing Platform:**
+- **Milestone 3: Complete Security Testing Platform:**
 
   - Date: T0 + 15 weeks + 2 weeks QA Qubic
   - Includes: Phases from 5 to 7
